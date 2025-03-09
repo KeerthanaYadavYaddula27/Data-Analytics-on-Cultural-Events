@@ -1,13 +1,16 @@
 # Data-Analytics-on-Cultural-Events
-**Data of G Pulla Reddy Engineering College Udaan 2K25 Events Cultural Compitition Details
-*SL.No- Series of students count
-*TimeStamp-Time that maximum counts registered
-*Name-Name of the student
-*Roll no- Student Roll no
-*Emailid- Student Email id
-*Year- student Year
-*Branch
-*Event
+
+**Dataset Of College Day Cultural Events**
+**SL.No**- Series of students count
+**TimeStamp**-Time that maximum counts registered
+**Name**-Name of the student
+**Roll no**- Student Roll no
+**Emailid**- Student Email id
+**Year**- student Year
+**Branch**
+**Event**
+
+
 **Abstract**
 This study explores data analytics and predictive modeling techniques applied to college cultural events. By leveraging machine learning algorithms, the project aims to analyze student participation patterns and predict future event attendance. The dataset, sourced from Excel files, undergoes preprocessing, visualization, and classification using Random Forest, Decision Tree, and Logistic Regression classifiers. The results indicate varying prediction accuracies, demonstrating the effectiveness of different machine learning models in event participation forecasting.
 
