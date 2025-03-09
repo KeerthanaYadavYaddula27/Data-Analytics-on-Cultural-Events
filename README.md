@@ -55,14 +55,3 @@ The Random Forest model outperformed the others, achieving the highest accuracy 
 **4. Conclusion**
 This project successfully implemented data analytics and predictive modeling techniques for analyzing college cultural event participation. The findings suggest that machine learning can enhance event forecasting, though improvements in feature engineering and model selection are required for higher accuracy. Future work will focus on incorporating additional features such as student demographics and historical event attendance to improve prediction performance.
 
-**5. References**
-- Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
-- Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python.
-- McKinney, W. (2012). Python for Data Analysis.
-
-**6. GitHub Repository**
-The complete source code and dataset can be accessed at: [GitHub Repository Link]
-
----
-This base paper serves as the foundation for documenting your project on GitHub and academic purposes.
-
